@@ -1,7 +1,6 @@
 - 👋 Hi, We are @ecoliteliberia
 - 👀 We aspire to be the leading waste management agency in Liberia
 - 🌱 We are currently on a mission to build amazing waste management system that will turn our waste to wealth
-- 💞️ I’m looking to collaborate on ...
 - ⚡ Fun fact: Waste is wealth
 
 <!---
